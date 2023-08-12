@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c51f8c1d-6f4c-42cd-85b0-311c7cc8c5b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/01_case/assets/normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_case/assets/case_01.css" beforeDir="false" afterPath="$PROJECT_DIR$/01_case/assets/case_01.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01_case/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01_case/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +56,23 @@
       <workItem from="1691820813556" duration="57000" />
       <workItem from="1691820923340" duration="31000" />
       <workItem from="1691821061748" duration="7000" />
-      <workItem from="1691821084890" duration="2173000" />
+      <workItem from="1691821084890" duration="2599000" />
     </task>
+    <task id="LOCAL-00001" summary="complete case 01">
+      <created>1691823380704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691823380704</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="complete case 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete case 01" />
   </component>
 </project>
