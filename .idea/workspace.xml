@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c51f8c1d-6f4c-42cd-85b0-311c7cc8c5b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/02_case/assets/case_02.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_case/assets/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_case/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_case/assets/case_03.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_case/assets/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_case/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_case/assets/case_04.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_case/assets/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_case/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_case/assets/case_02.css" beforeDir="false" afterPath="$PROJECT_DIR$/02_case/assets/case_02.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_case/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_case/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/02_case" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/04_case" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -43,6 +48,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\GDSE 65\Internet Technologies\Assignments\Assignment -03\04_case" />
+      <recent name="G:\GDSE 65\Internet Technologies\Assignments\Assignment -03\03_case" />
       <recent name="G:\GDSE 65\Internet Technologies\Assignments\Assignment -03\02_case" />
       <recent name="G:\GDSE 65\Internet Technologies\Assignments\Assignment -03\01_case\assets" />
     </key>
@@ -63,7 +70,8 @@
       <workItem from="1691852923496" duration="6428000" />
       <workItem from="1691927090175" duration="38000" />
       <workItem from="1692014868766" duration="15950000" />
-      <workItem from="1692063121130" duration="14090000" />
+      <workItem from="1692063121130" duration="15448000" />
+      <workItem from="1692414138476" duration="14759000" />
     </task>
     <task id="LOCAL-00001" summary="complete case 01">
       <created>1691823380704</created>
@@ -86,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691830042538</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="complete case 02">
+      <created>1692084550934</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692084550934</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="complete case 01" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete case 01" />
+    <MESSAGE value="complete case 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete case 02" />
   </component>
 </project>

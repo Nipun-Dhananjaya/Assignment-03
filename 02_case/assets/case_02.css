@@ -54,21 +54,20 @@ main{
     left: 0;
 }
 .gif{
-    height: 40vh;
-    width: 26vw;
     display: inline;
-    margin: 5px;
+    margin: 0;
 }
 .gif>img{
     height: 40vh;
-    width: 32.5%;
-    border: 2px solid darkgreen;
+    width: calc(98% / 3);
+    border: 1px solid darkgreen;
     margin: 0;
     padding: 0;
     display: inline;
 }
-.para{
-    margin: 5px;
+.para>p{
+    margin: 0px;
+    display: inline;
 }
 footer{
     width: 100%;
