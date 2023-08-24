@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c51f8c1d-6f4c-42cd-85b0-311c7cc8c5b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/06_case/assets/case_06.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_case/assets/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_case/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_case/assets/case_02.css" beforeDir="false" afterPath="$PROJECT_DIR$/02_case/assets/case_02.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +73,12 @@
       <workItem from="1691927090175" duration="38000" />
       <workItem from="1692014868766" duration="15950000" />
       <workItem from="1692063121130" duration="15448000" />
-      <workItem from="1692414138476" duration="18130000" />
+      <workItem from="1692414138476" duration="18936000" />
+      <workItem from="1692438211725" duration="62000" />
+      <workItem from="1692438324544" duration="647000" />
+      <workItem from="1692452289255" duration="4796000" />
+      <workItem from="1692458110119" duration="50000" />
+      <workItem from="1692843541763" duration="1748000" />
     </task>
     <task id="LOCAL-00001" summary="complete case 01">
       <created>1691823380704</created>
@@ -119,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692435251212</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="complete case 06">
+      <created>1692436803192</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692436803192</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +140,7 @@
     <MESSAGE value="complete case 02" />
     <MESSAGE value="complete case 03 and 04" />
     <MESSAGE value="complete case 05" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete case 05" />
+    <MESSAGE value="complete case 06" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete case 06" />
   </component>
 </project>
